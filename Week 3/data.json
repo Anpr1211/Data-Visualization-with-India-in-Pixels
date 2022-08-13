@@ -1,0 +1,92 @@
+[
+  {
+    "Music_Director": "Ajay - Atul",
+    "ProfitFactor": 2.23804798,
+    "Number_of_movies": 8,
+    "Years_Active": 6,
+    "genre_1": "drama",
+    "genre_2": "action",
+    "genre_3": "comedy"
+  },
+  {
+    "Music_Director": "Rajesh Roshan",
+    "ProfitFactor": 1.793222222,
+    "Number_of_movies": 5,
+    "Years_Active": 5,
+    "genre_1": "action",
+    "genre_2": "thriller",
+    "genre_3": "comedy"
+  },
+  {
+    "Music_Director": "Honey Singh",
+    "ProfitFactor": 1.740826191,
+    "Number_of_movies": 8,
+    "Years_Active": 2,
+    "genre_1": "drama",
+    "genre_2": "action",
+    "genre_3": "masala"
+  },
+  {
+    "Music_Director": "Vishal - Shekhar",
+    "ProfitFactor": 1.678490802,
+    "Number_of_movies": 32,
+    "Years_Active": 12,
+    "genre_1": "rom_com",
+    "genre_2": "thriller",
+    "genre_3": "drama"
+  },
+  {
+    "Music_Director": "A.R. Rehman",
+    "ProfitFactor": 1.608510638,
+    "Number_of_movies": 19,
+    "Years_Active": 13,
+    "genre_1": "drama",
+    "genre_2": "love_story",
+    "genre_3": "action"
+  },
+  {
+    "Music_Director": "Ram Sampath",
+    "ProfitFactor": 1.538795739,
+    "Number_of_movies": 10,
+    "Years_Active": 8,
+    "genre_1": "drama",
+    "genre_2": "comedy",
+    "genre_3": "thriller"
+  },
+  {
+    "Music_Director": "Vishal Bhardwaj",
+    "ProfitFactor": 1.506378049,
+    "Number_of_movies": 15,
+    "Years_Active": 11,
+    "genre_1": "drama",
+    "genre_2": "rom_com",
+    "genre_3": "thriller"
+  },
+  {
+    "Music_Director": "Pritam",
+    "ProfitFactor": 1.489555556,
+    "Number_of_movies": 73,
+    "Years_Active": 14,
+    "genre_1": "comedy",
+    "genre_2": "thriller",
+    "genre_3": "drama"
+  },
+  {
+    "Music_Director": "Raghav Sachar",
+    "ProfitFactor": 1.452795455,
+    "Number_of_movies": 5,
+    "Years_Active": 4,
+    "genre_1": "comedy",
+    "genre_2": "love_story",
+    "genre_3": "suspense"
+  },
+  {
+    "Music_Director": "Amit Trivedi",
+    "ProfitFactor": 1.450203125,
+    "Number_of_movies": 21,
+    "Years_Active": 9,
+    "genre_1": "drama",
+    "genre_2": "comedy",
+    "genre_3": "love_story"
+  }
+]
