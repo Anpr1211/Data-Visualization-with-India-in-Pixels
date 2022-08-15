@@ -33,7 +33,7 @@ function figures1(){
    // textSize(15);
    // text(cities1[i], 50, 150);
 
-    let url = "https://api.openweathermap.org/data/2.5/air_pollution?lat="+lat1[i]+"&lon="+long1[i]+"&appid=ddb8494670dc8c1c4ab5a373f0dd1317";
+    let url = "https://api.openweathermap.org/data/2.5/air_pollution?lat="+lat1[i]+"&lon="+long1[i]+"&appid=<your_api_key>";
     
     loadJSON(url, create_obj);
     //console.log("1");
